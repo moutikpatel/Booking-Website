@@ -1,0 +1,37 @@
+form {
+  border: 1px solid black;
+  margin-top: 80px;
+  width: 580px;
+  height: 480px;
+  margin-left: 21%;
+  padding: 20px;
+}
+
+.submitButton {
+  background-color: orange;
+  text-align: center;
+  padding: 15px 44px;
+  width: 580px;
+}
+
+.Error {
+  width: 530px;
+  background-color: #ffcdd2;
+  color: #bb002f;
+  padding: 2px 24px;
+}
+
+.noError {
+  width: 530px;
+  background-color: #c8e6c9;
+  color: #1b5e20;
+  padding: 2px 24px;
+}
+
+.inputBox {
+  border-top: 5px;
+  border-left: 5px;
+  border-right: 5pxs;
+  width: 580px;
+  height: 35px;
+}

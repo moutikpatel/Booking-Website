@@ -1,0 +1,8 @@
+[
+    {"id":1, "subject":"Object Oriented Programming", "language":"C#", "isVirtual":false},
+    {"id":2, "subject":"Designing Server Side Apps", "language":"Java", "isVirtual":true},
+    {"id":3, "subject":"Modern Typesafe Languages", "language":"Swift", "isVirtual":false},
+    {"id":4, "subject":"Beginner Programming", "language":"Python", "isVirtual":true},
+    {"id":5, "subject":"Intermediate Programming", "language":"Python", "isVirtual":false},
+    {"id":6, "subject":"Web Development Fundamentals", "language":"Javascript", "isVirtual":false}
+]
